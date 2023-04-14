@@ -44,5 +44,3 @@ while True:
 #    for cell in field:
 #        if cell == x:
 #        quantity_x += 1
-
-print("hello")
