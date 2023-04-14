@@ -85,3 +85,4 @@ while game_over == False:
 # Игра окончена. Покажем карту. Объявим победителя.
 print_maps(maps)
 print("Победил", win)
+
